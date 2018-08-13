@@ -3,7 +3,7 @@ function Dog(color){
     this.age = 4;
     this.stomach = [];
 }
-Doc.prototype.eat = function(mouse){
+Dog.prototype.eat = function(mouse){
     this.stomach.push(mouse);
 }
 

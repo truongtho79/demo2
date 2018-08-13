@@ -4,7 +4,9 @@ var Dog = require('./dog.js')
 
 var jery = new Cat('gray');
 var chelie = new Dog('white');
-var jery = new Mouse('gray');
+var jerymi = new Mouse('gray');
+chelie.eat(jerymi);
+jery.eat(jerymi);
 console.log(jery);
 console.log(chelie);
 console.log(jery);
