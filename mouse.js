@@ -6,4 +6,4 @@ Mouse.prototype.die = function(){
     this.deade = true;
 }
 var jery = new Mouse('gray');
-console.log(jery)
+console.log(jery);
