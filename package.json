@@ -1,0 +1,22 @@
+{
+  "name": "cat-mouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truongtho79/demo2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truongtho79/demo2/issues"
+  },
+  "homepage": "https://github.com/truongtho79/demo2#readme",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
