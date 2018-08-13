@@ -6,3 +6,5 @@ function Dog(color){
 Doc.prototype.eat = function(mouse){
     this.stomach.push(mouse);
 }
+
+module.exports = Dog;

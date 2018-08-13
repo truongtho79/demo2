@@ -8,3 +8,4 @@ Cat.prototype.eat = function(mouse){
 }
 var jery = new Cat('gray');
 console.log(jery);
+module.exports = Cat;

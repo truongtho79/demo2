@@ -5,5 +5,5 @@ function Mouse (color){
 Mouse.prototype.die = function(){
     this.deade = true;
 }
-var jery = new Mouse('gray');
-console.log(jery);
+
+module.exports = Mouse;
