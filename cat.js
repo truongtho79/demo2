@@ -6,3 +6,5 @@ function Cat(color){
 Cat.prototype.eat = function(mouse){
     this.stomach.push(mouse);
 }
+var jery = new Cat('gray');
+console.log(jery);
